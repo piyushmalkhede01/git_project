@@ -1,2 +1,3 @@
 Lecture 1 project summary
 The project contains student information and marks.
+This change was made on the master branch.
